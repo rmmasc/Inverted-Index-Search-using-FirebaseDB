@@ -10,7 +10,7 @@ import pandas as pd
 import requests
 import json
 import sys
-base_url = "https://inf-551-be532.firebaseio.com/.json"
+base_url = "https://xxxx.firebaseio.com/.json"
 
 
 def get_csv_data(filepath,encoding):

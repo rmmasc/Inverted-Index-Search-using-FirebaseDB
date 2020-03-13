@@ -8,7 +8,7 @@ import pandas as pd
 import requests
 import sys
 
-base_url = "https://inf-551-be532.firebaseio.com/.json"
+base_url = "https://xxxx.firebaseio.com/.json"
 
 class ResultObject():
     #store attributes of result for transparent code
